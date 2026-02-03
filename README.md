@@ -17,12 +17,6 @@ Desarrollador apasionado por crear soluciones innovadoras y aprender nuevas tecn
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesrcielos&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesrcielos&layout=compact&theme=radical)
-
 ### [Top Tank Battle](https://github.com/thesrcielos/TopTankBattle)
 Juego de batalla de tanques con vista cenital y mecánicas multijugador.
 - **Stack:** JavaScript/Go
