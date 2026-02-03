@@ -33,16 +33,11 @@ Sistema completo con frontend y backend para gestión de proyectos.
 - **Frontend:** JavaScript
 - **Backend:** Java
 
-### [ChatApp](https://github.com/thesrcielos/spammers](https://github.com/thesrcielos/ChatApp)
+### [ChatApp](https://github.com/thesrcielos/ChatApp)
 Proyecto desarrollado en Java de una aplicacion de chat en tiempo real.
 - **Stack:** Java, JavaScript, Spring Boot, React
 - **Features:** Chat en tiempo real, contactos
 
-## 🎯 Logros
-
-![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-yellow?style=flat-square)
-![Pull Shark x2](https://img.shields.io/badge/Achievement-Pull%20Shark%20x2-blue?style=flat-square)
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-red?style=flat-square)
 
 ## 📫 Conecta conmigo
 
